@@ -19,7 +19,9 @@ function theBeatlesPlay(musicians, instruments) {
 
 function iLoveTheBeatles(num) {
   var array = [];
-  do(something here) {
-    
+  do (console.log("I love the Beatles!")) {
+    while {
+      
+    }
   }
 }

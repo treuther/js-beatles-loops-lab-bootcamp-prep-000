@@ -11,7 +11,8 @@ function theBeatlesPlay(musicians, instruments) {
   var results[];
   var count = 0;
   while (count < facts.length) {
-    results.push(facts[count] + "!!!")
+    results.push(facts[count] + "!!!");
+    count++;
   }
   return results;
 }
